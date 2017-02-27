@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="control_editbox_hori">184dp</dimen>
+    <dimen name="control_editbox_vertical">64dp</dimen>
+    <dimen name="control_btn_hori">64dp</dimen>
+    <dimen name="control_btn_vert">64dp</dimen>
+</resources>
